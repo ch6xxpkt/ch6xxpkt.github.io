@@ -1,3 +1,3 @@
 # Error_
 
-<a href="ch6xxpkt.github.io/wellcome.html"> [접근요청] </a>
+<a href="https://ch6xxpkt.github.io/wellcome"> [접근요청] </a>

@@ -1,0 +1,25 @@
+  <!DOCTYPE html>
+  <html>
+  <head>
+      <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;700&display=swap" rel="stylesheet">
+      <style>
+p {
+  font-family: 'Noto Sans KR', sans-serif; }
+  H2 {font-family: 'Noto Sans KR', sans-serif;}
+  a {font-family: 'Noto Sans KR', sans-serif;
+font-weight: 700;}
+      </style>
+  </head>
+  <body bgcolor="#0000FF" text="#FFFFFF" link="#A901DB" alink="#FF0080">
+    <center>
+<p><h2>Errorcode_412: Precondition faild_</h2>
+</p>
+<p>
+  조건이 맞지 않습니다.
+</p>
+<p>문제를 해결하기 위해 요청을 재시도합니다.</p>
+
+<a href="helpme.html"> [접근요청] </a>
+  </body>
+  </html>

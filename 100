@@ -1,0 +1,25 @@
+  <!DOCTYPE html>
+  <html>
+  <head>
+      <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;700&display=swap" rel="stylesheet">
+      <style>
+p {
+  font-family: 'Noto Sans KR', sans-serif; }
+  H2 {font-family: 'Noto Sans KR', sans-serif;}
+  a {font-family: 'Noto Sans KR', sans-serif;
+font-weight: 700;}
+      </style>
+  </head>
+  <body bgcolor="#0000FF" text="#FFFFFF" link="#A901DB" alink="#FF0080">
+
+<p><h2> ✉#:\▒▞▟\┉╦╛ ╓\␥⑄⑁⑊\memory\Ch6\v1.0.0_</h2>
+</p>
+<p>✎_ <a href="10no1.html"> no.1</a></p>
+<p>✎_ <a href="10no2.html"> no.2</a></p>
+<p>✎_ <a href="10no3.html"> no.3</a></p>
+<p>✎_ <a href="10no4.html"> no.4</a></p>
+
+
+  </body>
+  </html>

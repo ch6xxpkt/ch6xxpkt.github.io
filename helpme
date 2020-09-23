@@ -1,0 +1,40 @@
+  <!DOCTYPE html>
+  <html>
+  <head>
+      <meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Noto+Sans+KR:wght@100;700&family=Poor+Story&display=swap" rel="stylesheet">
+      <style>
+p {
+  font-family: 'Noto Sans KR', sans-serif; }
+  p1 {font-family: 'Poor Story', cursive;}
+  a {font-family: 'Noto Sans KR', sans-serif;
+font-weight: 700;}
+      </style>
+  </head>
+  <body bgcolor="#0000FF" text="#FFFFFF" link="#A901DB" alink="#FF0080">
+    <center>
+<p1>
+  여긴 왜 찾아온거야?
+</p1>
+<br>
+<p1>
+수리도 끝내지 못했어. 전부 깨져서 손 쓸 수가 없다고.
+</p1>
+<br><p1>
+너무 건들여놔서 이게 복구가 가능할지도 잘 모르겠어.
+</p1><br>
+<p1>
+기다리는거라면 기대는 접어두라고 말 할 거고,
+</p1><br>
+<p1> 건질게 있나 싶어서 왔다면 그냥 돌아가라 말할거야. </p1>
+  <br>
+  <p1> 네가 아는건 이 곳에 없을거야. </p1>
+  <br>
+  <br>
+  <p> - 요청이 거부되었습니다 -</p>
+  <br>
+  <br>
+  <br>
+  <a href="501.html"> [재요청] </a>
+  </body>
+  </html>

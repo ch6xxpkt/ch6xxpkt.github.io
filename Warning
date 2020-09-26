@@ -1,0 +1,35 @@
+
+  <head>
+      <meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Noto+Sans+KR:wght@100;700&family=Poor+Story&display=swap" rel="stylesheet">
+      <style>
+p {
+  font-family: 'Noto Sans KR', sans-serif; }
+  p1 {font-family: 'Poor Story', cursive;}
+  a {font-family: 'Noto Sans KR', sans-serif;
+font-weight: 700;}
+      </style>
+  </head>
+  <body bgcolor="#0000FF" text="#FFFFFF" link="#A901DB" alink="#FF0080">
+    <center>
+<p1>
+  가만히 내버려도 알아서 고쳐질텐데.
+</p1>
+<br>
+<p1>
+굳이 이곳에 온 이유는 무엇이야?
+</p1>
+<br><p1>
+호기심이야?
+</p1><br>
+<p1>
+아니면 도와주고싶은거야?
+</p1><br>
+  <br>
+  <br>
+  <p> - 당신의 목적. -</p>
+  <br>
+  <br>
+  <br>
+  <a href="Warning1.html"> [호기심] </a><a href="Warning2.html"> [도움] </a>
+  </body>

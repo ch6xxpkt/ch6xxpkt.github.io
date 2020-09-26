@@ -1,0 +1,38 @@
+
+  <head>
+      <meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Noto+Sans+KR:wght@100;700&family=Poor+Story&display=swap" rel="stylesheet">
+      <style>
+p {
+  font-family: 'Noto Sans KR', sans-serif; }
+  p1 {font-family: 'Poor Story', cursive;}
+  a {font-family: 'Noto Sans KR', sans-serif;
+font-weight: 700;}
+      </style>
+  </head>
+  <body bgcolor="#0000FF" text="#FFFFFF" link="#A901DB" alink="#FF0080">
+    <center>
+<p1>
+  알아서 좋을건 없을텐데...
+</p1>
+<br>
+<p1>
+모든것이 불쾌할거야.
+</p1>
+<br><p1>
+처음과 같은 시선으로 볼 수 없을지도 모르지.
+</p1><br>
+<p1>
+네가 아는것에 한해선 많은것을 얻어갈 수 있을거야.
+</p1><br>
+<p1> 굳이 몰라도 되는 사실마저 얻어버릴거야. </p1>
+  <br>
+  <p1> 그렇다고 해도 남아있을거야? </p1>
+  <br>
+  <br>
+  <p> - 대답? -</p>
+  <br>
+  <br>
+  <br>
+  <a href="goodluck.html"> [긍정] </a> <a href="404.html"> [부정] </a>
+  </body>

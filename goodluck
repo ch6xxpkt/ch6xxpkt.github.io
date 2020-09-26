@@ -1,0 +1,29 @@
+
+  <head>
+      <meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Noto+Sans+KR:wght@100;700&family=Poor+Story&display=swap" rel="stylesheet">
+      <style>
+p {
+  font-family: 'Noto Sans KR', sans-serif; }
+  p1 {font-family: 'Poor Story', cursive;}
+  a {font-family: 'Noto Sans KR', sans-serif;
+font-weight: 700;}
+      </style>
+  </head>
+  <body bgcolor="#0000FF" text="#FFFFFF" link="#A901DB" alink="#FF0080">
+    <center>
+<p1>
+그래, 그게 네 선택이라면야.
+</p1>
+<br>
+<p1>
+후회하지 않기를 바랄게.
+</p1>
+<br><p1>
+기왕이면 마음 단단히 먹고, 끝까지 남아있어줘.
+</p1><br>
+  <br>
+  <br>
+  <br>
+  <a href="index.html"> [재요청] </a>
+  </body>

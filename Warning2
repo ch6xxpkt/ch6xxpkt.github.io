@@ -1,0 +1,36 @@
+
+  <head>
+      <meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Noto+Sans+KR:wght@100;700&family=Poor+Story&display=swap" rel="stylesheet">
+      <style>
+p {
+  font-family: 'Noto Sans KR', sans-serif; }
+  p1 {font-family: 'Poor Story', cursive;}
+  a {font-family: 'Noto Sans KR', sans-serif;
+font-weight: 700;}
+      </style>
+  </head>
+  <body bgcolor="#0000FF" text="#FFFFFF" link="#A901DB" alink="#FF0080">
+    <center>
+<p1>
+  생각보다 안전장치는 튼튼해.
+</p1>
+<br>
+<p1>
+도움은 굳이 필요없을거야.
+</p1>
+<br><p1>
+...사실 도와준다면 편하겠지만, 네가 보고싶지 않았던걸 볼지도 몰라.
+</p1><br>
+<p1>
+모르는게 더 편할, 그런거 말야.
+</p1><br>
+<p1> 그렇다고 해도 남아있을거야? </p1>
+  <br>
+  <br>
+  <p> - 대답? -</p>
+  <br>
+  <br>
+  <br>
+  <a href="goodluck.html"> [긍정] </a> <a href="404.html"> [부정] </a>
+  </body>
